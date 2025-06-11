@@ -1,2 +1,2 @@
 print('hello world')
-print('welcome to phyton 4')
+print('welcome to phyton 69')
